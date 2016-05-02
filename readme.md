@@ -1,5 +1,4 @@
-# iresource
-<!--[![Build Status](https://travis-ci.org/maxnetish/iresource.svg?branch=master)](https://travis-ci.org/maxnetish/iresource)-->
+# iresource [![Build Status](https://travis-ci.org/maxnetish/iresource.svg?branch=master)](https://travis-ci.org/maxnetish/iresource)
 
 > Isomorph lib
 
